@@ -14,7 +14,7 @@
 
 ### 3D
 
-![GSM IOT CORE HW 3D - TOP PCB](assets/gsm-iot-core-hw-top-3d.png)]
+![GSM IOT CORE HW 3D - TOP PCB](assets/gsm-iot-core-hw-top-3d.png)
 
 ![GSM IOT CORE HW 3D - BUTTON PCB](assets/gsm-iot-core-hw-button-3d.png)
 
