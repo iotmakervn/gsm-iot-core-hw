@@ -1,4 +1,4 @@
-update=Thứ hai, 15 Tháng tám Năm 2016 16:58:21 ICT
+update=Thứ năm, 15 Tháng chín Năm 2016 16:55:51 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=../../../Public/library-git/TO_SOT_Packages_SMD.pretty
@@ -80,3 +70,14 @@ LibName38=lib/smf05c
 LibName39=lib/stm32
 LibName40=lib/w_rtx
 LibName41=lib/armory
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+ERC_TestSimilarLabels=1
