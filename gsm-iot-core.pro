@@ -1,4 +1,4 @@
-update=Thứ sáu, 12 Tháng tám Năm 2016 12:14:06 ICT
+update=Thứ năm, 15 Tháng chín Năm 2016 21:52:51 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -28,13 +28,14 @@ version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=assets/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=../../../Public/library-git/TO_SOT_Packages_SMD.pretty
@@ -69,14 +70,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/ACRONET
-LibName31=lib/_connectors
-LibName32=lib/LP2985-50DBVR
-LibName33=lib/microsd_socket
-LibName34=lib/mma7660
-LibName35=lib/mp2365dn
-LibName36=lib/SIM800C
-LibName37=lib/sim_holder
-LibName38=lib/smf05c
-LibName39=lib/stm32
-LibName40=lib/w_rtx
-LibName41=lib/armory
+LibName31=lib/LP2985-50DBVR
+LibName32=lib/microsd_socket
+LibName33=lib/mma7660
+LibName34=lib/mp2365dn
+LibName35=lib/SIM800C
+LibName36=lib/sim_holder
+LibName37=lib/smf05c
+LibName38=lib/stm32
+LibName39=lib/w_rtx
+LibName40=lib/armory
