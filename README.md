@@ -14,16 +14,11 @@
 
 ### 3D
 #### Top view
-![GSM IOT CORE HW 3D TOP PCB](assets/gsm-iot-core-hw-top-3d.png)
+![GSM IOT CORE HW 3D TOP PCB](assets/gsm-iot-core-hw-top-3d.png)(assets/gsm-iot-core-hw.stl)
 
 #### Button view
-![GSM IOT CORE HW 3D TOP PCB](assets/gsm-iot-core-hw-button-3d.png)
+![GSM IOT CORE HW 3D TOP PCB](assets/gsm-iot-core-hw-button-3d.png)(assets/gsm-iot-core-hw.stl)
 
 ### Film
 
 # Giấy phép
-
-
-
-
-/home/trinhduc/2016/gsm-iot-core-hw
