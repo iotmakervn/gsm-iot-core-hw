@@ -1,8 +1,8 @@
-(module MicroSD_Push-Push-A (layer F.Cu) (tedit 57DACA9F)
+(module MicroSD_Push-Push-A (layer F.Cu) (tedit 57F74655)
   (fp_text reference J1 (at 8 -0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "MICRO_SD_HINGE - Micro SD socket Push-Push A" (at 8 -9.5) (layer F.Fab)
+  (fp_text value "MICRO_SD_HINGE - Micro SD socket Push-Push A" (at 8 -9.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.5 -7) (end 14.5 -7) (layer F.CrtYd) (width 0.15))
@@ -22,4 +22,11 @@
   (pad 12 smd rect (at 0.8 -6.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 10.3 7.75) (size 2.2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 10.3 -7.75) (size 2.2 1.2) (layers F.Cu F.Paste F.Mask))
+  (pad "" thru_hole circle (at 10.5 -3.05) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 10.5 4.93) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/lib/GCT-MEM2055-00-190-01-A.wrl
+    (at (xyz -0.02362204724409449 -0.001968503937007874 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
